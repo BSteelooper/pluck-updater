@@ -2,8 +2,6 @@
 //This is a module for pluck, an opensource content management system
 //Website: http://www.pluck-cms.org
 
-//MODULE NAME: RSS Reader
-//DESCRIPTION: this modules lets an user add an RSS Feed to a page
 //Make sure the file isn't accessed directly
 defined('IN_PLUCK') or exit('Access denied!');
 
